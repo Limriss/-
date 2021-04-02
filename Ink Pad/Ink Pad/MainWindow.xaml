@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Ink Pad" Height="550" Width="370" Background="LightGray">
     <Grid>
-        <InkCanvas x:Name="inkCanvas1" Background=" LightYellow"/>
+        <InkCanvas x:Name="inkCanvas1" Background="Gray"/>
         <Button Content="Clear" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="40" Click="Button_Click"/>
         <Button Content="Close" HorizontalAlignment="Right" Height="20" VerticalAlignment="Top" Width="40" Click="Button_Click_1"/>
     </Grid>
